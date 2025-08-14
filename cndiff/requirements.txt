@@ -1,0 +1,6 @@
+torch
+configmypy
+numpy
+pandas
+scikit-learn
+tqdm

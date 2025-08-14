@@ -1,0 +1,3 @@
+exchange_bschequad_bstar0.0001_bend0.1_slen96_plen14_tsteps100_hdim64_ndepth_1_nemb_2  	mse:0.0158, mae:0.0793
+
+
