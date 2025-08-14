@@ -1,9 +1,9 @@
-# ⏳✨ Conditional Diffusion with Non-Linear Data Transformation for Time Series Forecasting 📈🌊
+# ⏳✨ Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting 📈🌊
 
 [![ICML 2025](https://img.shields.io/badge/ICML-2025-blue.svg)](https://icml.cc/)
 
 Welcome to the official implementation of our **ICML 2025** paper:  
-> **Conditional Diffusion with Non-Linear Data Transformation for Time Series Forecasting**  
+> **Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting**  
 
 🎯 Our method blends **Generative Model framework** 🌀 with **non-linear data transformations** 🔄 to unlock **state-of-the-art** forecasting performance across diverse time series datasets.  
 Whether it’s climate 🌦, finance 💹, or energy ⚡ — this repo has you covered.
@@ -22,7 +22,7 @@ Whether it’s climate 🌦, finance 💹, or energy ⚡ — this repo has you c
 ---
 
 ## 📚 Paper
-📄 **ICML 2025** — *Conditional Diffusion with Non-Linear Data Transformation for Time Series Forecasting*  
+📄 **ICML 2025** — *Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting*  
 [📥 Read the Paper (openreview version)](https://openreview.net/attachment?id=kcUNMKqrCg&name=pdf)
 
 ---
